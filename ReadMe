@@ -1,0 +1,8 @@
+::Who's A Good Boy?!::
+
+An HTML and JavaScript web page to find good boy amongst a selection of dogs
+
+
+- Given a choice of 3 dogs.
+- User must pick a dog they think is the good boy.
+- Through the magic of random numbers the user is told whether they were correct or incorrect.
